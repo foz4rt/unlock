@@ -5,6 +5,6 @@
 ```bash
 git clone https://github.com/foz4rt/unlock
 ```
-- cd miunlock
+- cd unlock
 - bash setup.sh
 - bash un.sh
